@@ -8,7 +8,7 @@
 #>
 
 param (
-    [string]$DriverDir = "C:\PoC\BYOVD",
+    [string]$DriverDir = "c:\Users\Seip\Documents\Git\seip-harness\BYOVDKit\Drivers",
     [switch]$Cleanup
 )
 
